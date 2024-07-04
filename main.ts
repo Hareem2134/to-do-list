@@ -1,4 +1,4 @@
-#! /usr/bin/env node
+#! /usr/bin/envd node
 
 import inquirer from "inquirer";
 
